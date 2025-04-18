@@ -5,4 +5,5 @@ urlpatterns= [
     path("home",views.index,name = "Index"),
     path("time",views.time,name = "time"),
 
+
 ]
